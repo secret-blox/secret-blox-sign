@@ -6,7 +6,7 @@
 * Profit 🤑
 
 
-# One time only
+# One time Only Setup
 * Open regedit
 * Open `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{C689AAB8-8E78-11D0-8C47-00C04FC295EE}` registry
 * Change Dll value to "C:\\Windows\\System32\\ntdll.dll"

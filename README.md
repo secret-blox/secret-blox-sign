@@ -1,7 +1,7 @@
 # Signing dll's with fake Roblox certificate
 
 * Download and unzip [secret-blox-sign](https://github.com/secret-blox/secret-blox-sign)
-* Place unsigned.dll and hookloader.exe
+* Place unsigned.dll and hookloader.exe into same directory
 * Run app.py
 * Profit 🤑
 

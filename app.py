@@ -198,8 +198,6 @@ def signfile(exe, sigfile, output):
 if __name__ == "__main__":
     certificate = "roblox.cer"
 
-    cert = copyCert(signed_dll)
-
     to_sign = {
         "hookloader.exe" : "Injector.exe",
         "unsigned.dll" : "test.dll"

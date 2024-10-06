@@ -15,3 +15,6 @@
 
 
 ### use bloxsign aka sigthief in case app.py doesn't work
+
+### Discord
+https://discord.gg/MknK8S3K
